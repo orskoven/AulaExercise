@@ -1,2 +1,2 @@
-public class DayCare {
+public class DayCare extends Institution{
 }
