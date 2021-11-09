@@ -1,2 +1,2 @@
-public class Club {
+public class Club extends Institution{
 }
